@@ -3,7 +3,7 @@
 This repo contains my implementations of some cool ideas presented in published papers that I found interesting.
 The following papers are implemented:
 
-- [Densely Connected Convolutional Network](https://arxiv.org/abs/1608.06993)
+- [Densely Connected Convolutional Network](https://arxiv.org/abs/1608.06993) (see [DenseCNN](https://github.com/g12bftd/AI-ML-Paper-Implementations/tree/main/DenseCNN)
 - [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
 - [Colorful Image Colorization](https://arxiv.org/abs/1603.08511)
 - [Deep Feature Interpolation for Image Content Changes](https://arxiv.org/abs/1611.05507)
