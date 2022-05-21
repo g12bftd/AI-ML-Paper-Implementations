@@ -1,6 +1,6 @@
 # ML-Paper-Implementations
 
-This repo contains my implementations of some cool ideas presented in published papers that I found interesting.
+These are my implementations of some interesting papers in the machine learning community
 The following papers are implemented:
 
 - [Densely Connected Convolutional Network](https://arxiv.org/abs/1608.06993) (see [DenseCNN](https://github.com/g12bftd/AI-ML-Paper-Implementations/tree/main/DenseCNN))
