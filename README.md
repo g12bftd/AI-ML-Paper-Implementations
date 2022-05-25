@@ -1,6 +1,6 @@
 # ML-Paper-Implementations
 
-These are my implementations of some interesting papers in the machine learning community. The following papers are implemented:
+These are my implementations of some interesting papers in the machine learning community. The following papers are implemented (in progress):
 
 - [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
 - [Colorful Image Colorization](https://arxiv.org/abs/1603.08511)
