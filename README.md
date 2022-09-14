@@ -9,7 +9,7 @@ These are my implementations of some interesting papers in the machine learning 
 - [pix2pix: Image-to-Image Translation with Conditional Adversarial Networks](https://arxiv.org/pdf/1611.07004v1.pdf)
 - [Scaling the Scattering Transform: Deep Hybrid Network](https://arxiv.org/abs/1703.08961) 
 - [Self-Normalizing Networks](https://arxiv.org/pdf/1706.02515.pdf)
-- [Sobolev Training for Neural Networks](https://arxiv.org/abs/1706.04859)
+- [Training Generative Adversarial Networks by Solving Ordinary Differential Equations](https://proceedings.neurips.cc/paper/2020/file/3c8f9a173f749710d6377d3150cf90da-Paper.pdf)
 - [Effective Approaches to Attention-based Neural Machine Translation](https://arxiv.org/abs/1508.04025)
 
 
